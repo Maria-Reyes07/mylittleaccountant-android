@@ -46,7 +46,7 @@ To run the Android version, you will need:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-little-accountant.git
+git clone https://github.com/Maria-Reyes07/my-little-accountant.git
 ```
 
 2. Open the project in **Android Studio**.
